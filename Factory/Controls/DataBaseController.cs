@@ -43,7 +43,7 @@ namespace Factory.Controls
                 }
             }
         }
-
+            
         private static void ReadConfig()
         {
             if (!File.Exists(ConfigFileName))
